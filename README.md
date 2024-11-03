@@ -33,7 +33,7 @@ If you'd like to run this website locally or customize it, follow these steps:
    
    ```bash
    git clone https://github.com/yourusername/yourrepo.git
-```
+   ```
 
 2. **Navigate to the project folder**:
    
