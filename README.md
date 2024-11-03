@@ -37,21 +37,21 @@ If you'd like to run this website locally or customize it, follow these steps:
 
 2. **Navigate to the project folder**:
    
-```bash
+   ```bash
    cd yourrepo
-```
+   ```
 
 3. **Install dependencies**:
    
-```bash
+   ```bash
    npm install
-```
+   ```
 
 4. **Start the development server**:
    
-```bash
+   ```bash
    npm start
-```
+   ```
 
 5. Open your browser and go to `http://localhost:3000` to view the website locally.
 
