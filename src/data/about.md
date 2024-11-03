@@ -49,8 +49,8 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 - I'll become the king of pirates.
 - [This link leads to a picture of me with Steve Jobs (trust me).](https://www.youtube.com/watch?v=zL19uMsnpSU)
-- I do not like Linkdien
-- Let's connect on linkedien
+- I do not like Linkedin
+- Let's connect on linkedin
 - I can't locate every country on a map.
 - I started a [yt channel](https://www.youtube.com/channel/UCYoilWYzAZgjvRq13T4lL1Q) long back.
 - Subscribe
