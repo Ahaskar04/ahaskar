@@ -36,23 +36,23 @@ bash
 
 2. **Navigate to the project folder**:
    
-bash
+```bash
    cd yourrepo
-
+```
 
 3. **Install dependencies**:
    
-bash
+```bash
    npm install
-
+```
 
 4. **Start the development server**:
    
-bash
+```bash
    npm start
+```
 
-
-5. Open your browser and go to http://localhost:3000 to view the website locally.
+5. Open your browser and go to `http://localhost:3000` to view the website locally.
 
 ## Acknowledgments
 This website was adapted and customized from `Michael D'Angelo's personal website`. Special thanks to Michael for sharing the foundation for this project! 
