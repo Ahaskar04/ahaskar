@@ -55,8 +55,8 @@ If you'd like to run this website locally or customize it, follow these steps:
 
 5. Open your browser and go to `http://localhost:3000` to view the website locally.
 
-## Acknowledgments
+## 🙏 Acknowledgments
 This website was adapted and customized from `Michael D'Angelo's personal website`. Special thanks to Michael for sharing the foundation for this project! 
 
-## License
+## 📝 License
 This project is open-source 
