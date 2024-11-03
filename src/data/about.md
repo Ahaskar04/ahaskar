@@ -23,12 +23,11 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Gym
 - [Anime](https://www.imdb.com/title/tt0388629/)
 - Ben 10
-- Reels
 - Space
 - Summer
 - Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
 - [Influence](https://www.goodreads.com/book/show/28815.Influence)
-- [Good design](/)
+- [Good design](https://ahaskar04.github.io/ahaskar)
 - Video Editing
 
 <!-- # Travel / Geography
