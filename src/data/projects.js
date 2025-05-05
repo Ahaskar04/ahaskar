@@ -1,6 +1,18 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Crypto Trading Platform',
+    subtitle: 'Web App & Admin Panel for HFT Startup',
+    link: 'https://daxasia.com/',
+    image: '/images/projects/DaxAsia.jpg',
+    date: '2024-03-01',
+    desc:
+      'Developed a full-stack production-grade crypto trading platform as part of an internship. '
+      + 'Built using React (TypeScript), Firebase, TailwindCSS, and Node.js, it featured a real-time dashboard, referral system, payment portal, and an admin panel. '
+      + 'Enabled role-based access, secure wallet operations, and deep internal controls.'
+      + '',
+  },
+  {
     title: 'Kyodo',
     subtitle: 'Your Language, Your Code!',
     link: 'https://www.kyodo.co.in/',
@@ -10,6 +22,18 @@ const data = [
       'Initiated to break language barriers in coding education. '
       + 'The platform engaged over 900 students, achieving a 50% preference rate in post-pilot surveys '
       + 'and was transferred to a non-profit for long-term sustainability and continued impact in India.'
+      + '',
+  },
+  {
+    title: 'StackFlow',
+    subtitle: 'Multi-Agent Coding Intelligence',
+    link: 'https://stackflow.streamlit.app/',
+    image: '/images/projects/stackflow.jpeg',
+    date: '2024-02-01',
+    desc:
+      'Developed a multi-agent AI system using Qwen2.5 32B-Coder, achieving 92.7% coding accuracy on HumanEval—'
+      + 'surpassing GPT-4.0 and Claude 3.5. '
+      + 'The project was made fully open-source to enable global developer access to enhanced AI-assisted coding workflows.'
       + '',
   },
   {
